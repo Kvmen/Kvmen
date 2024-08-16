@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Kvmen 
+- 👋 Hi, I’m Sahrul Ramadhan Hardiansyah
 - 👀 I’m interested in Artificial Intelligent
-- 🌱 I’m currently learning Javascript and Python
+- 🌱 I’m currently learning Python and SQL
 - 📫 How to reach me 
 - 😄 Pronouns: Hello World!
 - ⚡ Fun fact: Nothing
